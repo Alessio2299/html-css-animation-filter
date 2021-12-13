@@ -101,7 +101,7 @@
 }
 @keyframes fullspin{
   100% {
-    transform: rotate(360deg);
+    transform: rotate(-360deg);
   }
 }
 /* End icon 10 */
