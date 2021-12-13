@@ -71,7 +71,7 @@
 
 /* Start image 7 */
 .ex-7-img:hover{
-  filter: grayscale(100%);
+  filter: grayscale(80%) sepia(50%);
 }
 /* End image 7 */
  
